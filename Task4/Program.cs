@@ -8,7 +8,7 @@ int numberN2 = -numberN;
 int count = numberN2;
 while (count < numberN +1)
 {
-    Console.Write(count+" ");
+    Console.Write(count+", ");
     count = count+1;
 }
 
