@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBjUws3hV6re2XoXGiftaveubARrfNSlVLaC1j1NlFlM0+6X8aPb++CaxNk3kgjju+tGiu0/gWjnW3kFwPyAmw==",
+  "success": true,
+  "projectFilePath": "/home/denisv/Обучение/Programm/C#/Task2/Task2.csproj",
+  "expectedPackageFiles": [
+    "/home/denisv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
